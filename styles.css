@@ -1,0 +1,61 @@
+:root{
+	--sns-blue: #005EB8;
+	--sns-dark: #003d66;
+	--sns-accent: #00ADEF;
+	--sns-yellow: #ffc107;
+	--page-bg: #f6f6f6;
+	--card-bg: #ffffff;
+	--muted: #666;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background: var(--page-bg);
+	color: #222;
+}
+
+.container{
+	max-width: 1100px;
+	margin: 24px auto;
+	padding: 18px;
+	background: var(--card-bg);
+	border: 1px solid #e6e6e6;
+	border-radius: 6px;
+}
+
+h1{margin-top:0;color:var(--sns-dark)}
+
+label{display:block;margin:8px 0}
+
+input[type=text], input[type=email], input[type=password], textarea{width:100%;padding:8px;border:1px solid #ccc;border-radius:4px}
+
+button{padding:8px 14px;background:var(--sns-blue);color:#fff;border:none;cursor:pointer;border-radius:4px}
+
+.error{color:#b00020}
+
+.list{width:100%;border-collapse:collapse}
+.list th,.list td{border:1px solid #ddd;padding:8px;text-align:left}
+
+nav a{margin-right:10px;color:var(--sns-blue);text-decoration:none}
+
+/* Header / branding */
+.site-header{display:flex;align-items:center;gap:16px;padding:10px 0;border-bottom:3px solid var(--sns-dark);margin-bottom:12px}
+.site-logos{display:flex;align-items:center;gap:10px}
+.site-logos img{height:50px;width:auto}
+.logo-ulscb{max-height:55px}
+.logo-sns{max-height:45px}
+.site-branding{flex:1}
+.site-brand{font-size:18px;color:var(--sns-dark);font-weight:700}
+.site-sub{color:var(--muted);font-size:13px}
+
+/* Footer */
+.site-footer{border-top:1px solid #eee;padding-top:10px;margin-top:18px;color:var(--muted);font-size:12px}
+
+/* Print styles to keep branding */
+@media print{
+	body{background:white}
+	.container{box-shadow:none;max-width:100%;margin:0;padding:12mm}
+	.site-logos img{height:35px}
+	.site-header{border-bottom:3px solid var(--sns-dark);padding:8px 0}
+	a{color:inherit;text-decoration:none}
+}

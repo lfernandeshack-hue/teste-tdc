@@ -1,0 +1,43 @@
+
+--- PÁGINA 1 ---
+3 PORTUGAL (} bid
+| ~ SNS .
+| Transporte Doente Critico - Registo de Enfermagem
+| FichaNe:_/___ Data: __/_/___
+| Servigo: Médico: ______
+| Hora Contacto:__:___ Hora ULSCB: _: __
+| Hora Inicio TDC:_:__ Hora Fim: ____: ___
+: Hora de Chegada ULSCB: ___s: ___—-s —_—
+Destino: Médico:
+SCORE TDC: | GCs:
+
+Diagnéstico: | Notas de Enfermagem: Sim 0 Nao | Histéria Clinica Sim 0 Nao 0
+
+GSA Sim 0 Nao 0 | Analises Sim 0 Nao O | MCDT’s Sim O Nao | Quais:
+
+‘Suporte Respiratorio’ ON 0 | MV O| MAC 0 | Alto Fluxo O | VNIO}| TET/O, O| Vi
+Suporte Cardiovascular Pacing Ol | Vasopressores 0 | Fluidos O
+
+ESTADO ATUAL
+DO DOENTE
+
+Outros
+
+VIA AEREA: Desobstrucao VA Di | Aspirac&o: Orofaringe 0 Oro/NasoTraqueal 0 | Guedell 0 N°
+
+VENTILAGAO. ON | MV 0 | MAC D | Alto Fluxo 0 | 0; __iwa | FiO,
+CIRCULAGAO: Acessos: Central 0) Periférico 0 Calibre | Local (s)
+
+INTERVENCOES
+DURANTE O TDC
+
+Compressées Cardiacas Externas 0 | Desfibrilhacao 0 | SAV 0 N.° Ciclos: | Pacing: O Intensidade:
+ENG: 0 Calibre: | N° Vias | Lavagem Gastrica 0 | ALGALIAGAO: Calibre: Chi N° Vias
+OUTRAS ATITUDES: imobilizac4o: 0 Local (s): Outras:
+
+Notas de Enfermagem
+
+Intercorréncias no TDC
+
+Equipa TDC: Enfermeiro __— N°Mec: | Médico N°Mec
+
